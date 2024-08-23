@@ -1,0 +1,14 @@
+{
+  "name": "wildlife-app",
+  "version": "1.0.0",
+  "description": "A simple wildlife information app using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build step necessary'"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
